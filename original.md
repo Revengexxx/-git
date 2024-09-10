@@ -1,1 +1,0 @@
-https://yourtodo.ru/posts/shpargalka-po-git-komandam/?ysclid=m0widjepl9902075887
