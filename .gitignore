@@ -17,4 +17,4 @@ build/
 .idea/
 
 # 123
-.md
+*.md
